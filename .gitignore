@@ -21,9 +21,6 @@ dist-installer/
 Thumbs.db
 .DS_Store
 
-# Ferramentas locais (config de máquina — não versionar)
-.claude/
-
 # Screenshots soltos
 image.png
 *.screenshot.png
