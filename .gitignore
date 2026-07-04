@@ -1,0 +1,29 @@
+# Saídas de build (geradas por Maven/jpackage — não versionar)
+target/
+dist/
+dist-installer/
+
+# Artefatos empacotados
+*.jar
+*.exe
+*.zip
+*.msi
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Ferramentas locais (config de máquina — não versionar)
+.claude/
+
+# Screenshots soltos
+image.png
+*.screenshot.png
